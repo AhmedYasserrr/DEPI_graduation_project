@@ -1,4 +1,3 @@
-## DEPI graduation project
 # Project Pipeline for nhorizon-java-container
 
 ## Process Overview

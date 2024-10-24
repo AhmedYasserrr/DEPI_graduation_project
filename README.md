@@ -29,7 +29,8 @@
 6. **Verifying the Deployment**
    - Upon successful completion of the pipeline, the application was accessed in a web browser to verify that it was running correctly.
 
-  ![Pipeline Diagram](https://drive.google.com/file/d/1t0fVbMFqw9tsC2oGs0GYBWtkm-CUyrKr/view?usp=sharing)
+  ![Pipeline Diagram](https://drive.google.com/uc?export=view&id=1t0fVbMFqw9tsC2oGs0GYBWtkm-CUyrKr)
+  
 
 ### Common Challenges Encountered
 
